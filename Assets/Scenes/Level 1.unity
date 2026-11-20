@@ -1280,9 +1280,11 @@ GameObject:
   - component: {fileID: 1257060161}
   - component: {fileID: 1257060160}
   - component: {fileID: 1257060159}
+  - component: {fileID: 1257060163}
   - component: {fileID: 1257060162}
+  - component: {fileID: 1257060164}
   m_Layer: 0
-  m_Name: Square
+  m_Name: SquareCanBeBroken
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1439,6 +1441,53 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1257060163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257060158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ce928a026061c447a47a51cd33f78dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UnityEventOnTrigger
+  tagToActivate: Player
+  onTriggerEnter:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1593572762}
+        m_TargetAssemblyTypeName: UICounter, Assembly-CSharp
+        m_MethodName: AddToCounter
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  onTriggerExit:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1257060164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257060158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a0e7189603df246b665f499cfae19e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UICounter
+  counterText: {fileID: 0}
+  onComparedAndTrue:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1361212581
 GameObject:
   m_ObjectHideFlags: 0
@@ -3538,7 +3587,7 @@ GameObject:
   - component: {fileID: 1593572763}
   - component: {fileID: 1593572762}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Counter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3595,13 +3644,13 @@ MonoBehaviour:
   onTriggerEnter:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1593572760}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 0
+      - m_Target: {fileID: 1593572762}
+        m_TargetAssemblyTypeName: UICounter, Assembly-CSharp
+        m_MethodName: SetCounter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -4123,10 +4172,10 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 891343529}
+  - {fileID: 1490373060}
   - {fileID: 553358873}
   - {fileID: 1495909487}
   - {fileID: 2054949568}
   - {fileID: 5437730497364081493}
   - {fileID: 227827763}
   - {fileID: 1257060161}
-  - {fileID: 1490373060}
