@@ -1,0 +1,2329 @@
+fileFormatVersion: 2
+guid: 1c16bda2c8b0f7a4abc57ab3034a109c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -813384644287085360
+    second: tux 8 by 11 slice_0
+  - first:
+      213: 4960238512488278176
+    second: tux 8 by 11 slice_1
+  - first:
+      213: 1236098260145001872
+    second: tux 8 by 11 slice_2
+  - first:
+      213: 5897406487477110179
+    second: tux 8 by 11 slice_3
+  - first:
+      213: -466294072685936025
+    second: tux 8 by 11 slice_4
+  - first:
+      213: 1846733740695397474
+    second: tux 8 by 11 slice_5
+  - first:
+      213: -7835155374437425591
+    second: tux 8 by 11 slice_6
+  - first:
+      213: -1277726478700786222
+    second: tux 8 by 11 slice_7
+  - first:
+      213: -1469064459957681529
+    second: tux 8 by 11 slice_8
+  - first:
+      213: 5771844561142126373
+    second: tux 8 by 11 slice_9
+  - first:
+      213: 6504835993522714898
+    second: tux 8 by 11 slice_10
+  - first:
+      213: -8210810366857356665
+    second: tux 8 by 11 slice_11
+  - first:
+      213: -218169293201987423
+    second: tux 8 by 11 slice_12
+  - first:
+      213: 2662662337126316144
+    second: tux 8 by 11 slice_13
+  - first:
+      213: -981714403549986161
+    second: tux 8 by 11 slice_14
+  - first:
+      213: -8000713047736879813
+    second: tux 8 by 11 slice_15
+  - first:
+      213: 9116840274024790126
+    second: tux 8 by 11 slice_16
+  - first:
+      213: -6050382098462506446
+    second: tux 8 by 11 slice_17
+  - first:
+      213: 4738757448930132766
+    second: tux 8 by 11 slice_18
+  - first:
+      213: 6727383297289554742
+    second: tux 8 by 11 slice_19
+  - first:
+      213: -404264498171373082
+    second: tux 8 by 11 slice_20
+  - first:
+      213: -8717073679387631389
+    second: tux 8 by 11 slice_21
+  - first:
+      213: 7423825941870171794
+    second: tux 8 by 11 slice_22
+  - first:
+      213: 8126920062774669149
+    second: tux 8 by 11 slice_23
+  - first:
+      213: -3624862039475102038
+    second: tux 8 by 11 slice_24
+  - first:
+      213: -5941774993766742172
+    second: tux 8 by 11 slice_25
+  - first:
+      213: 5008672609467179534
+    second: tux 8 by 11 slice_26
+  - first:
+      213: -5390330951258350745
+    second: tux 8 by 11 slice_27
+  - first:
+      213: -5196731054558127216
+    second: tux 8 by 11 slice_28
+  - first:
+      213: -1863282381903288800
+    second: tux 8 by 11 slice_29
+  - first:
+      213: 7483197398914408767
+    second: tux 8 by 11 slice_30
+  - first:
+      213: -5044828804811928080
+    second: tux 8 by 11 slice_31
+  - first:
+      213: 3594802518328996587
+    second: tux 8 by 11 slice_32
+  - first:
+      213: -3068423014232553637
+    second: tux 8 by 11 slice_33
+  - first:
+      213: -4818000625057866808
+    second: tux 8 by 11 slice_34
+  - first:
+      213: -2317605188182936076
+    second: tux 8 by 11 slice_35
+  - first:
+      213: 7871394251312148518
+    second: tux 8 by 11 slice_36
+  - first:
+      213: 1637162457859184321
+    second: tux 8 by 11 slice_37
+  - first:
+      213: -4933034561484404261
+    second: tux 8 by 11 slice_38
+  - first:
+      213: 119274620681023425
+    second: tux 8 by 11 slice_39
+  - first:
+      213: 8075177876816160152
+    second: tux 8 by 11 slice_40
+  - first:
+      213: 1070677284691418639
+    second: tux 8 by 11 slice_41
+  - first:
+      213: 215029375399726699
+    second: tux 8 by 11 slice_42
+  - first:
+      213: 7640708747569460984
+    second: tux 8 by 11 slice_43
+  - first:
+      213: 3775054428359151435
+    second: tux 8 by 11 slice_44
+  - first:
+      213: -4025202823864882946
+    second: tux 8 by 11 slice_45
+  - first:
+      213: 9130845504803454158
+    second: tux 8 by 11 slice_46
+  - first:
+      213: 2329313751619844858
+    second: tux 8 by 11 slice_47
+  - first:
+      213: 5773665188802899909
+    second: tux 8 by 11 slice_48
+  - first:
+      213: 4548042089643520039
+    second: tux 8 by 11 slice_49
+  - first:
+      213: -5285053624904641624
+    second: tux 8 by 11 slice_50
+  - first:
+      213: -1633425804145508792
+    second: tux 8 by 11 slice_51
+  - first:
+      213: 1808842447741380673
+    second: tux 8 by 11 slice_52
+  - first:
+      213: -1764251886989897197
+    second: tux 8 by 11 slice_53
+  - first:
+      213: -4330063976541431303
+    second: tux 8 by 11 slice_54
+  - first:
+      213: 1491451828836692103
+    second: tux 8 by 11 slice_55
+  - first:
+      213: 7142918384178607288
+    second: tux 8 by 11 slice_56
+  - first:
+      213: -2521977196103552589
+    second: tux 8 by 11 slice_57
+  - first:
+      213: 8226737515557910456
+    second: tux 8 by 11 slice_58
+  - first:
+      213: 5581756627896083490
+    second: tux 8 by 11 slice_59
+  - first:
+      213: 1801436276237226540
+    second: tux 8 by 11 slice_60
+  - first:
+      213: 3885073115554017097
+    second: tux 8 by 11 slice_61
+  - first:
+      213: 8826304620267984102
+    second: tux 8 by 11 slice_62
+  - first:
+      213: -3416059095063734629
+    second: tux 8 by 11 slice_63
+  - first:
+      213: 8781134306975164827
+    second: tux 8 by 11 slice_64
+  - first:
+      213: 107330479901045417
+    second: tux 8 by 11 slice_65
+  - first:
+      213: -8168783022288861396
+    second: tux 8 by 11 slice_66
+  - first:
+      213: 7576256737521961691
+    second: tux 8 by 11 slice_67
+  - first:
+      213: -6862212940905209899
+    second: tux 8 by 11 slice_68
+  - first:
+      213: -6059769712925290425
+    second: tux 8 by 11 slice_69
+  - first:
+      213: 8330885819655493972
+    second: tux 8 by 11 slice_70
+  - first:
+      213: -6032775322834761280
+    second: tux 8 by 11 slice_71
+  - first:
+      213: -3185595083016963093
+    second: tux 8 by 11 slice_72
+  - first:
+      213: 7879848269366172430
+    second: tux 8 by 11 slice_73
+  - first:
+      213: -2695924535907317006
+    second: tux 8 by 11 slice_74
+  - first:
+      213: 3661415827249540209
+    second: tux 8 by 11 slice_75
+  - first:
+      213: 2630585914356536544
+    second: tux 8 by 11 slice_76
+  - first:
+      213: 6066627667582685281
+    second: tux 8 by 11 slice_77
+  - first:
+      213: 3303035852888895937
+    second: tux 8 by 11 slice_78
+  - first:
+      213: 940566568795360613
+    second: tux 8 by 11 slice_79
+  - first:
+      213: 5491089168478097228
+    second: tux 8 by 11 slice_80
+  - first:
+      213: -1333775747342218148
+    second: tux 8 by 11 slice_81
+  - first:
+      213: 834572388609783647
+    second: tux 8 by 11 slice_82
+  - first:
+      213: -6425603776595845094
+    second: tux 8 by 11 slice_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c28bb9f646b4f0800000000000000
+      internalID: -813384644287085360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8631a85ae46d440800000000000000
+      internalID: 4960238512488278176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095db6781d0872110800000000000000
+      internalID: 1236098260145001872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5482e54fbc7d150800000000000000
+      internalID: 5897406487477110179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624face2046789f0800000000000000
+      internalID: -466294072685936025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a0e08d8ae0a910800000000000000
+      internalID: 1846733740695397474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e1aaa03bfe34390800000000000000
+      internalID: -7835155374437425591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddcdec898a944ee0800000000000000
+      internalID: -1277726478700786222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782421838a5dc9be0800000000000000
+      internalID: -1469064459957681529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52795ad3c06b91050800000000000000
+      internalID: 5771844561142126373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219b81c3fd1d54a50800000000000000
+      internalID: 6504835993522714898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5f5d59775d0e80800000000000000
+      internalID: -8210810366857356665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82cc90f28e8fcf0800000000000000
+      internalID: -218169293201987423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b939c94da3f420800000000000000
+      internalID: 2662662337126316144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c48983ff3062f0800000000000000
+      internalID: -981714403549986161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b357fc76fd1c7f090800000000000000
+      internalID: -8000713047736879813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f8371de5858e70800000000000000
+      internalID: 9116840274024790126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23282c9a989b80ca0800000000000000
+      internalID: -6050382098462506446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e138734fac273c140800000000000000
+      internalID: 4738757448930132766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b07d637777c5d50800000000000000
+      internalID: 6727383297289554742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9913fa493c36af0800000000000000
+      internalID: -404264498171373082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e061337cabb60780800000000000000
+      internalID: -8717073679387631389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296508b6c5ab60760800000000000000
+      internalID: 7423825941870171794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5feda32dbe98c070800000000000000
+      internalID: 8126920062774669149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed9413e27e1bdc0800000000000000
+      internalID: -3624862039475102038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4670c31cf139a8da0800000000000000
+      internalID: -5941774993766742172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0225838331628540800000000000000
+      internalID: 5008672609467179534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd37c1f82b135b0800000000000000
+      internalID: -5390330951258350745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b52dba3a081e7b0800000000000000
+      internalID: -5196731054558127216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0262966bb8a4426e0800000000000000
+      internalID: -1863282381903288800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31ab6af268a9d760800000000000000
+      internalID: 7483197398914408767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc6804eea2df9b0800000000000000
+      internalID: -5044828804811928080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fda628dd43e130800000000000000
+      internalID: 3594802518328996587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5709089685ca65d0800000000000000
+      internalID: -3068423014232553637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbd0d755f5032db0800000000000000
+      internalID: -4818000625057866808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5f0cc4c5636dfd0800000000000000
+      internalID: -2317605188182936076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620338cfd5fcc3d60800000000000000
+      internalID: 7871394251312148518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c65d44d49e58b610800000000000000
+      internalID: 1637162457859184321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd94ff1e3375a8bb0800000000000000
+      internalID: -4933034561484404261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf6964b2afb7a100800000000000000
+      internalID: 119274620681023425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89568bdae7bc01070800000000000000
+      internalID: 8075177876816160152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9c17515fcbde00800000000000000
+      internalID: 1070677284691418639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e89f0e310fbf200800000000000000
+      internalID: 215029375399726699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6f81baf10490a60800000000000000
+      internalID: 7640708747569460984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fcc126000b36430800000000000000
+      internalID: 3775054428359151435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef862aeab5b9328c0800000000000000
+      internalID: -4025202823864882946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc38ccfb9747be70800000000000000
+      internalID: 9130845504803454158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afabbbf0482635020800000000000000
+      internalID: 2329313751619844858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa2a626ed202050800000000000000
+      internalID: 5773665188802899909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7203ab81f24ed1f30800000000000000
+      internalID: 4548042089643520039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31ba4cab7b7a6b0800000000000000
+      internalID: -5285053624904641624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e33f8a2e7e459e0800000000000000
+      internalID: -1633425804145508792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148e5406f9c4a1910800000000000000
+      internalID: 1808842447741380673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31297a5914e1487e0800000000000000
+      internalID: -1764251886989897197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9588741c588e3c0800000000000000
+      internalID: -4330063976541431303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780fa694983b2b410800000000000000
+      internalID: 1491451828836692103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4b294fc6eb02360800000000000000
+      internalID: 7142918384178607288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1bc962a13200dd0800000000000000
+      internalID: -2521977196103552589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7753bee2e3b2270800000000000000
+      internalID: 8226737515557910456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ad646412667d40800000000000000
+      internalID: 5581756627896083490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c225f92bfbcfff810800000000000000
+      internalID: 1801436276237226540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f64032a6d8ae530800000000000000
+      internalID: 3885073115554017097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45672d9455d7a70800000000000000
+      internalID: 8826304620267984102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96dbf22a58b790d0800000000000000
+      internalID: -3416059095063734629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992044b02bdcd970800000000000000
+      internalID: 8781134306975164827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f218b0805d7100800000000000000
+      internalID: 107330479901045417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c270b3d0f17a2ae80800000000000000
+      internalID: -8168783022288861396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda082fac55442960800000000000000
+      internalID: 7576256737521961691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df914410b584c0a0800000000000000
+      internalID: -6862212940905209899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740da685d8f57eba0800000000000000
+      internalID: -6059769712925290425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45997e893804d9370800000000000000
+      internalID: 8330885819655493972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c901b09ec6474ca0800000000000000
+      internalID: -6032775322834761280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebfa86662e7ac3d0800000000000000
+      internalID: -3185595083016963093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b1c837048da5d60800000000000000
+      internalID: 7879848269366172430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0cff0be6269ad0800000000000000
+      internalID: -2695924535907317006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca33ebb46ffc230800000000000000
+      internalID: 3661415827249540209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41e50a3f7b18420800000000000000
+      internalID: 2630585914356536544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16092d6a8bdf03450800000000000000
+      internalID: 6066627667582685281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c172d3ab9db6dd20800000000000000
+      internalID: 3303035852888895937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dc7ac9f409d0d00800000000000000
+      internalID: 940566568795360613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc1257184443c40800000000000000
+      internalID: 5491089168478097228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc2a1460a7d7de0800000000000000
+      internalID: -1333775747342218148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577f6a6a2ff49b00800000000000000
+      internalID: 834572388609783647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tux 8 by 11 slice_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10a894d86ba3d6a0800000000000000
+      internalID: -6425603776595845094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c99b864a83625344ba037810ad073100
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":11.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tux 8 by 11 slice_0: -813384644287085360
+      tux 8 by 11 slice_1: 4960238512488278176
+      tux 8 by 11 slice_10: 6504835993522714898
+      tux 8 by 11 slice_11: -8210810366857356665
+      tux 8 by 11 slice_12: -218169293201987423
+      tux 8 by 11 slice_13: 2662662337126316144
+      tux 8 by 11 slice_14: -981714403549986161
+      tux 8 by 11 slice_15: -8000713047736879813
+      tux 8 by 11 slice_16: 9116840274024790126
+      tux 8 by 11 slice_17: -6050382098462506446
+      tux 8 by 11 slice_18: 4738757448930132766
+      tux 8 by 11 slice_19: 6727383297289554742
+      tux 8 by 11 slice_2: 1236098260145001872
+      tux 8 by 11 slice_20: -404264498171373082
+      tux 8 by 11 slice_21: -8717073679387631389
+      tux 8 by 11 slice_22: 7423825941870171794
+      tux 8 by 11 slice_23: 8126920062774669149
+      tux 8 by 11 slice_24: -3624862039475102038
+      tux 8 by 11 slice_25: -5941774993766742172
+      tux 8 by 11 slice_26: 5008672609467179534
+      tux 8 by 11 slice_27: -5390330951258350745
+      tux 8 by 11 slice_28: -5196731054558127216
+      tux 8 by 11 slice_29: -1863282381903288800
+      tux 8 by 11 slice_3: 5897406487477110179
+      tux 8 by 11 slice_30: 7483197398914408767
+      tux 8 by 11 slice_31: -5044828804811928080
+      tux 8 by 11 slice_32: 3594802518328996587
+      tux 8 by 11 slice_33: -3068423014232553637
+      tux 8 by 11 slice_34: -4818000625057866808
+      tux 8 by 11 slice_35: -2317605188182936076
+      tux 8 by 11 slice_36: 7871394251312148518
+      tux 8 by 11 slice_37: 1637162457859184321
+      tux 8 by 11 slice_38: -4933034561484404261
+      tux 8 by 11 slice_39: 119274620681023425
+      tux 8 by 11 slice_4: -466294072685936025
+      tux 8 by 11 slice_40: 8075177876816160152
+      tux 8 by 11 slice_41: 1070677284691418639
+      tux 8 by 11 slice_42: 215029375399726699
+      tux 8 by 11 slice_43: 7640708747569460984
+      tux 8 by 11 slice_44: 3775054428359151435
+      tux 8 by 11 slice_45: -4025202823864882946
+      tux 8 by 11 slice_46: 9130845504803454158
+      tux 8 by 11 slice_47: 2329313751619844858
+      tux 8 by 11 slice_48: 5773665188802899909
+      tux 8 by 11 slice_49: 4548042089643520039
+      tux 8 by 11 slice_5: 1846733740695397474
+      tux 8 by 11 slice_50: -5285053624904641624
+      tux 8 by 11 slice_51: -1633425804145508792
+      tux 8 by 11 slice_52: 1808842447741380673
+      tux 8 by 11 slice_53: -1764251886989897197
+      tux 8 by 11 slice_54: -4330063976541431303
+      tux 8 by 11 slice_55: 1491451828836692103
+      tux 8 by 11 slice_56: 7142918384178607288
+      tux 8 by 11 slice_57: -2521977196103552589
+      tux 8 by 11 slice_58: 8226737515557910456
+      tux 8 by 11 slice_59: 5581756627896083490
+      tux 8 by 11 slice_6: -7835155374437425591
+      tux 8 by 11 slice_60: 1801436276237226540
+      tux 8 by 11 slice_61: 3885073115554017097
+      tux 8 by 11 slice_62: 8826304620267984102
+      tux 8 by 11 slice_63: -3416059095063734629
+      tux 8 by 11 slice_64: 8781134306975164827
+      tux 8 by 11 slice_65: 107330479901045417
+      tux 8 by 11 slice_66: -8168783022288861396
+      tux 8 by 11 slice_67: 7576256737521961691
+      tux 8 by 11 slice_68: -6862212940905209899
+      tux 8 by 11 slice_69: -6059769712925290425
+      tux 8 by 11 slice_7: -1277726478700786222
+      tux 8 by 11 slice_70: 8330885819655493972
+      tux 8 by 11 slice_71: -6032775322834761280
+      tux 8 by 11 slice_72: -3185595083016963093
+      tux 8 by 11 slice_73: 7879848269366172430
+      tux 8 by 11 slice_74: -2695924535907317006
+      tux 8 by 11 slice_75: 3661415827249540209
+      tux 8 by 11 slice_76: 2630585914356536544
+      tux 8 by 11 slice_77: 6066627667582685281
+      tux 8 by 11 slice_78: 3303035852888895937
+      tux 8 by 11 slice_79: 940566568795360613
+      tux 8 by 11 slice_8: -1469064459957681529
+      tux 8 by 11 slice_80: 5491089168478097228
+      tux 8 by 11 slice_81: -1333775747342218148
+      tux 8 by 11 slice_82: 834572388609783647
+      tux 8 by 11 slice_83: -6425603776595845094
+      tux 8 by 11 slice_9: 5771844561142126373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
