@@ -488,7 +488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CustomizablePlatformerMovement
   maxSpeed: 10
-  jumpForce: 6.21
+  jumpForce: 9.79
   rigidbody: {fileID: 227827765}
   groundCheckCollider: {fileID: 1253902579}
   groundLayer:
@@ -565,7 +565,7 @@ Animator:
   m_GameObject: {fileID: 227827762}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ea85a5852ba1cf1499e9ea9cd3487861, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
